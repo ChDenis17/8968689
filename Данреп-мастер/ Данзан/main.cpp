@@ -1,6 +1,5 @@
 #include <iostream>
-#include <math.h>
-
+#include <math.h>//какммки
 using namespace std;
 
 int main()
